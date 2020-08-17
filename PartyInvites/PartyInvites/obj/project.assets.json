@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Cyber\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub Repository\\ASP.Net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\ASP.Net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "D:\\Documents\\GitHub Repository\\ASP.Net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
-      "packagesPath": "C:\\Users\\Cyber\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub Repository\\ASP.Net\\PartyInvites\\PartyInvites\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\ASP.Net\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\ASP.Net\\PartyInvites\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Cyber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
