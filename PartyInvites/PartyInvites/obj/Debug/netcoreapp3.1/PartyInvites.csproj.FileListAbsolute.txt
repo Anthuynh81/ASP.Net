@@ -36,3 +36,4 @@ D:\Documents\GitHub Repository\ASP.Net\PartyInvites\PartyInvites\obj\Debug\netco
 D:\Documents\GitHub Repository\ASP.Net\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.csproj.CopyComplete
 D:\Documents\GitHub Repository\ASP.Net\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
 D:\Documents\GitHub Repository\ASP.Net\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+D:\Documents\GitHub Repository\ASP.Net\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListResponses.cshtml.g.cs
